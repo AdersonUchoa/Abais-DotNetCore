@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\iamuc\\OneDrive\\\u00C1rea de Trabalho\\Pessoal\\Projeto Abais\\backend\\ProjetoAbais\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F11D4103-C5A9-4B5A-981C-869DE51D7540}|ProjetoAbais.API\\ProjetoAbais.API.csproj|c:\\users\\iamuc\\onedrive\\\u00E1rea de trabalho\\pessoal\\projeto abais\\backend\\projetoabais\\projetoabais.api\\controllers\\administradorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F11D4103-C5A9-4B5A-981C-869DE51D7540}|ProjetoAbais.API\\ProjetoAbais.API.csproj|solutionrelative:projetoabais.api\\controllers\\administradorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F11D4103-C5A9-4B5A-981C-869DE51D7540}|ProjetoAbais.API\\ProjetoAbais.API.csproj|c:\\users\\iamuc\\onedrive\\\u00E1rea de trabalho\\pessoal\\projeto abais\\backend\\projetoabais\\projetoabais.api\\controllers\\imovelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F11D4103-C5A9-4B5A-981C-869DE51D7540}|ProjetoAbais.API\\ProjetoAbais.API.csproj|solutionrelative:projetoabais.api\\controllers\\imovelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F11D4103-C5A9-4B5A-981C-869DE51D7540}|ProjetoAbais.API\\ProjetoAbais.API.csproj|c:\\users\\iamuc\\onedrive\\\u00E1rea de trabalho\\pessoal\\projeto abais\\backend\\projetoabais\\projetoabais.api\\controllers\\inquilinocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F11D4103-C5A9-4B5A-981C-869DE51D7540}|ProjetoAbais.API\\ProjetoAbais.API.csproj|solutionrelative:projetoabais.api\\controllers\\inquilinocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F11D4103-C5A9-4B5A-981C-869DE51D7540}|ProjetoAbais.API\\ProjetoAbais.API.csproj|c:\\users\\iamuc\\onedrive\\\u00E1rea de trabalho\\pessoal\\projeto abais\\backend\\projetoabais\\projetoabais.api\\controllers\\aluguelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F11D4103-C5A9-4B5A-981C-869DE51D7540}|ProjetoAbais.API\\ProjetoAbais.API.csproj|solutionrelative:projetoabais.api\\controllers\\aluguelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F11D4103-C5A9-4B5A-981C-869DE51D7540}|ProjetoAbais.API\\ProjetoAbais.API.csproj|c:\\users\\iamuc\\onedrive\\\u00E1rea de trabalho\\pessoal\\projeto abais\\backend\\projetoabais\\projetoabais.api\\dtos\\alugueldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F11D4103-C5A9-4B5A-981C-869DE51D7540}|ProjetoAbais.API\\ProjetoAbais.API.csproj|solutionrelative:projetoabais.api\\dtos\\alugueldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AluguelDTO.cs",
+              "DocumentMoniker": "C:\\Users\\iamuc\\OneDrive\\\u00C1rea de Trabalho\\Pessoal\\Projeto Abais\\backend\\ProjetoAbais\\ProjetoAbais.API\\DTOs\\AluguelDTO.cs",
+              "RelativeDocumentMoniker": "ProjetoAbais.API\\DTOs\\AluguelDTO.cs",
+              "ToolTip": "C:\\Users\\iamuc\\OneDrive\\\u00C1rea de Trabalho\\Pessoal\\Projeto Abais\\backend\\ProjetoAbais\\ProjetoAbais.API\\DTOs\\AluguelDTO.cs",
+              "RelativeToolTip": "ProjetoAbais.API\\DTOs\\AluguelDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T00:43:46.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdministradorController.cs",
+              "DocumentMoniker": "C:\\Users\\iamuc\\OneDrive\\\u00C1rea de Trabalho\\Pessoal\\Projeto Abais\\backend\\ProjetoAbais\\ProjetoAbais.API\\Controllers\\AdministradorController.cs",
+              "RelativeDocumentMoniker": "ProjetoAbais.API\\Controllers\\AdministradorController.cs",
+              "ToolTip": "C:\\Users\\iamuc\\OneDrive\\\u00C1rea de Trabalho\\Pessoal\\Projeto Abais\\backend\\ProjetoAbais\\ProjetoAbais.API\\Controllers\\AdministradorController.cs*",
+              "RelativeToolTip": "ProjetoAbais.API\\Controllers\\AdministradorController.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T00:33:59.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AluguelController.cs",
+              "DocumentMoniker": "C:\\Users\\iamuc\\OneDrive\\\u00C1rea de Trabalho\\Pessoal\\Projeto Abais\\backend\\ProjetoAbais\\ProjetoAbais.API\\Controllers\\AluguelController.cs",
+              "RelativeDocumentMoniker": "ProjetoAbais.API\\Controllers\\AluguelController.cs",
+              "ToolTip": "C:\\Users\\iamuc\\OneDrive\\\u00C1rea de Trabalho\\Pessoal\\Projeto Abais\\backend\\ProjetoAbais\\ProjetoAbais.API\\Controllers\\AluguelController.cs",
+              "RelativeToolTip": "ProjetoAbais.API\\Controllers\\AluguelController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAIwE8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T00:33:58.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImovelController.cs",
+              "DocumentMoniker": "C:\\Users\\iamuc\\OneDrive\\\u00C1rea de Trabalho\\Pessoal\\Projeto Abais\\backend\\ProjetoAbais\\ProjetoAbais.API\\Controllers\\ImovelController.cs",
+              "RelativeDocumentMoniker": "ProjetoAbais.API\\Controllers\\ImovelController.cs",
+              "ToolTip": "C:\\Users\\iamuc\\OneDrive\\\u00C1rea de Trabalho\\Pessoal\\Projeto Abais\\backend\\ProjetoAbais\\ProjetoAbais.API\\Controllers\\ImovelController.cs",
+              "RelativeToolTip": "ProjetoAbais.API\\Controllers\\ImovelController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAE4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T00:33:57.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InquilinoController.cs",
+              "DocumentMoniker": "C:\\Users\\iamuc\\OneDrive\\\u00C1rea de Trabalho\\Pessoal\\Projeto Abais\\backend\\ProjetoAbais\\ProjetoAbais.API\\Controllers\\InquilinoController.cs",
+              "RelativeDocumentMoniker": "ProjetoAbais.API\\Controllers\\InquilinoController.cs",
+              "ToolTip": "C:\\Users\\iamuc\\OneDrive\\\u00C1rea de Trabalho\\Pessoal\\Projeto Abais\\backend\\ProjetoAbais\\ProjetoAbais.API\\Controllers\\InquilinoController.cs",
+              "RelativeToolTip": "ProjetoAbais.API\\Controllers\\InquilinoController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAcwC4AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T00:18:56.201Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

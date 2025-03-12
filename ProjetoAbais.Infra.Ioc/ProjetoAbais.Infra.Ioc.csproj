@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ProjetoAbais.Application\ProjetoAbais.Application.csproj" />
+    <ProjectReference Include="..\ProjetoAbais.DOMAIN\ProjetoAbais.DOMAIN.csproj" />
+    <ProjectReference Include="..\ProjetoAbais.Infra.Data\ProjetoAbais.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>

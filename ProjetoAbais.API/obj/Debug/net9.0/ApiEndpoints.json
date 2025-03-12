@@ -1,0 +1,389 @@
+[
+  {
+    "ContainingType": "ProjetoAbais.API.Controllers.AdministradorController",
+    "Method": "GetAllAdministradores",
+    "RelativePath": "api/Administrador",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[ProjetoAbais.API.Models.Administrador, ProjetoAbais.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ProjetoAbais.API.Controllers.AdministradorController",
+    "Method": "PostAdministrador",
+    "RelativePath": "api/Administrador",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "administradorCadastroDTO",
+        "Type": "ProjetoAbais.API.DTOs.AdministradorCadastroDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProjetoAbais.API.Controllers.AdministradorController",
+    "Method": "PutAdministrador",
+    "RelativePath": "api/Administrador",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "administradorDTO",
+        "Type": "ProjetoAbais.API.DTOs.AdministradorCadastroDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProjetoAbais.API.Controllers.AdministradorController",
+    "Method": "DeleteAdministrador",
+    "RelativePath": "api/Administrador/{administradorId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "administradorId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProjetoAbais.API.Controllers.AdministradorController",
+    "Method": "GetAdministradorById",
+    "RelativePath": "api/Administrador/{administradorId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "administradorId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ProjetoAbais.API.Models.Administrador",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ProjetoAbais.API.Controllers.AluguelController",
+    "Method": "GetAllAlugueis",
+    "RelativePath": "api/Aluguel",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[ProjetoAbais.API.Models.Aluguel, ProjetoAbais.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ProjetoAbais.API.Controllers.AluguelController",
+    "Method": "PostAluguel",
+    "RelativePath": "api/Aluguel",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "aluguelDTO",
+        "Type": "ProjetoAbais.API.DTOs.AluguelDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProjetoAbais.API.Controllers.AluguelController",
+    "Method": "PutAluguel",
+    "RelativePath": "api/Aluguel",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "aluguelDTO",
+        "Type": "ProjetoAbais.API.DTOs.AluguelDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProjetoAbais.API.Controllers.AluguelController",
+    "Method": "DeleteAluguel",
+    "RelativePath": "api/Aluguel/{aluguelId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "aluguelId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProjetoAbais.API.Controllers.AluguelController",
+    "Method": "GetAluguelById",
+    "RelativePath": "api/Aluguel/{aluguelId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "aluguelId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ProjetoAbais.API.Models.Aluguel",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ProjetoAbais.API.Controllers.ImovelController",
+    "Method": "GetAllImoveis",
+    "RelativePath": "api/Imovel",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[ProjetoAbais.API.Models.Imovel, ProjetoAbais.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ProjetoAbais.API.Controllers.ImovelController",
+    "Method": "PostImovel",
+    "RelativePath": "api/Imovel",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "imovelDTO",
+        "Type": "ProjetoAbais.API.DTOs.ImovelDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProjetoAbais.API.Controllers.ImovelController",
+    "Method": "PutImovel",
+    "RelativePath": "api/Imovel",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "imovelDTO",
+        "Type": "ProjetoAbais.API.DTOs.ImovelDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProjetoAbais.API.Controllers.ImovelController",
+    "Method": "DeleteImovel",
+    "RelativePath": "api/Imovel/{imovelId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "imovelId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProjetoAbais.API.Controllers.ImovelController",
+    "Method": "GetImovelById",
+    "RelativePath": "api/Imovel/{imovelId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "imovelId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ProjetoAbais.API.Models.Imovel",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ProjetoAbais.API.Controllers.InquilinoController",
+    "Method": "GetAllInquilinos",
+    "RelativePath": "api/Inquilino",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[ProjetoAbais.API.Models.Inquilino, ProjetoAbais.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ProjetoAbais.API.Controllers.InquilinoController",
+    "Method": "PostInquilino",
+    "RelativePath": "api/Inquilino",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "inquilinoDTO",
+        "Type": "ProjetoAbais.API.DTOs.InquilinoDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProjetoAbais.API.Controllers.InquilinoController",
+    "Method": "PutInquilino",
+    "RelativePath": "api/Inquilino",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "inquilinoDTO",
+        "Type": "ProjetoAbais.API.DTOs.InquilinoDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProjetoAbais.API.Controllers.InquilinoController",
+    "Method": "DeleteInquilino",
+    "RelativePath": "api/Inquilino/{inquilinoId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "inquilinoId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProjetoAbais.API.Controllers.InquilinoController",
+    "Method": "GetInquilinoById",
+    "RelativePath": "api/Inquilino/{inquilinoId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "inquilinoId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProjetoAbais.API.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[ProjetoAbais.API.WeatherForecast, ProjetoAbais.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]
